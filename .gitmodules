@@ -1,3 +1,6 @@
 [submodule "FreeRTOS-Kernel"]
 	path = FreeRTOS-Kernel
 	url = https://github.com/ryanprescott2/FreeRTOS-Kernel
+[submodule "STM32CubeF4"]
+	path = STM32CubeF4
+	url = https://github.com/ryanprescott2/STM32CubeF4
